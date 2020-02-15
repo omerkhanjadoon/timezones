@@ -1,0 +1,32 @@
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+#webbody{
+background-color: #f4f4f4;
+}
+
+#topbar{
+	background-color: #ffffff;
+	height: 65px;
+	box-shadow: 1px 4px 5px 2px #dfdfdf;
+}
+#topbar-text{
+	text-align: center;
+	color: #9C27B0;
+	font-size: 2em;
+}
+#topbar-container{
+	padding: 10px;
+	text-align: center;
+
+}
+#topbar-img{
+	height: 40px;
+	display: inline;
+}
+.top{
+	display: inline;
+}
